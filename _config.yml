@@ -1,3 +1,18 @@
+# Site settings
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: "TLC Health and Beauty"
+email: "dcarroll809@gmail.com"
+author: "Dan Carroll"
+description: Blog site for TLC Health and Beauty
+
+# Build settings
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Social icons
+#show_social_icons: true
+#github_username: someGithubUser
+#twitter_username: someTwitterUser  
